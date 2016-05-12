@@ -1,0 +1,19 @@
+{
+  "name": "koa-kick-off-solution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloKoa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "kick-off-koa",
+    "verify": "kick-off-koa verify --"
+  },
+  "keywords": [
+    "koajs"
+  ],
+  "author": "tjku",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^1.2.0"
+  }
+}
